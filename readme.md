@@ -36,7 +36,7 @@ Al finalizar la ejecución, dependiendo de las opciones seleccionadas por el doc
 
 ## Interfaz gráfica
 
-La nueva versión `v.5.0.0` mantiene la funcionalidad del proyecto pero añade la generación de fichas formativas para facilitar su uso a los docentes.
+La nueva versión `v.5.0.0` mantiene la funcionalidad del proyecto pero añade la generación de fichas de seguimiento.
 
 ![interfaz](./img/interfaz_app.png)
 
